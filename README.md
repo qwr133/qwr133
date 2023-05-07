@@ -5,8 +5,6 @@
 
 Here are some ideas to get you started:
 
-<a href="https://www.instagram.com/sang._.geee/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,18 +17,6 @@ Here are some ideas to get you started:
 -->
 
 <br>
-
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/sang._.geee/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-    <a href="ksg165000@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
-
-
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -44,4 +30,17 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
     <br>
 </div><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwr133&show_icons=true&theme=radical)
+
+
+
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.instagram.com/sang._.geee/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="ksg165000@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwr133&show_icons=true&theme=radical) -->
