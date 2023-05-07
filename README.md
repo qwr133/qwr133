@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Sangji's Github 👋
 
 <!--
 **qwr133/qwr133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 -->
 
 <br>
-## 🔨 Once I've used 🔨
+🌱 Currently learning 🌱
 <div style="display:flex; flex-direction:row;">
+    <br>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 
 
 
-## 📞 Contact 📞
+📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/sang._.geee/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
