@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=seondal&show_icons=true&theme=dracula&hide="/>
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=qwr133&show_icons=true&theme=dracula&hide="/>
  
   ### 🐣 Sangji 🐥 
  
@@ -16,8 +16,6 @@
  
  <br>
  
-
-![Sangji's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwr133&theme=dark&show_icons=true)
 </div>
 
 
