@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=seondal&show_icons=true&theme=dracula&hide="/>
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=qwr133&show_icons=true&theme=dracula&hide="/>
  
   ### 🐣 Sangji 🐥 
  
@@ -16,13 +16,14 @@
  
  <br>
  
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwr133&theme=dracula&exclude_repo=2020_1_CPL,2021_1_OOP,2021_2_ESL&layout=compact&langs_count=10"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwr133)](https://github.com/qwr133/github-readme-stats"/>
+
 
 <div align="left">
 
 ### Once I've Used ✏️
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
+
 <p>스킬넣기</p>
 </a>
 <br>
