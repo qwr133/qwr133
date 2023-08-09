@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=qwr133&show_icons=true&theme=dracula&hide="/>
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=seondal&show_icons=true&theme=dracula&hide="/>
  
   ### 🐣 Sangji 🐥 
  
@@ -16,7 +16,11 @@
  
  <br>
  
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwr133)](https://github.com/qwr133/github-readme-stats"/>
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=qwr133&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwr133&theme=radical&layout=compact" />
+</div>
 
 
 <div align="left">
