@@ -1,64 +1,31 @@
-<!-- ### Welcome to Sangji's Github 👋 -->
-
-<!--
-**qwr133/qwr133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=E5BEEC&text=&animation=twinkling&height=80)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=E5BEEC&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Sangji's+GitHub!👋)](https://git.io/typing-svg)
+<div align="center">
+  
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=seondal&show_icons=true&theme=dracula&hide="/>
  
-<div align="left">
+  ### 🐣 Sangji 🐥 
  
+ <a href="https://github.com/qwr133"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
  ---
-     
-<!-- [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqwr133&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/qwr133) -->
 
-<!-- -[![Sangji's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qwr133&layout=compact&theme=nord&hide_border=true&langs_count=10)](https://github.com/qwr133/github-readme-stats)
-[![Sangji's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwr133&theme=nord&hide_border=true&count_private=true)](https://github.com/qwr133/github-readme-stats) -->
  
+ <br>
+ 
+</div>
+  
+ ---
+ 
+ <br>
+ 
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=2020_1_CPL,2021_1_OOP,2021_2_ESL&layout=compact&langs_count=10"/>
+
+<div align="left">
+
+### Once I've Used ✏️
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
+<p>스킬넣기</p>
+</a>
 <br>
-
-
-<br>
-🌱 Currently learning 🌱
-<div style="display:flex; flex-direction:row;">
-    <br>
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-    <img src="https://img.shields.io/badge/mariaDB-479A1?style=for-the-badge&logo=mariadb&logoColor=white"> 
-    <br>
-    <br>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-    <br>
-</div><br>
-
-
-
-📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/sang._.geee/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-    <a href="ksg165000@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwr133&show_icons=true&theme=radical) -->
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
