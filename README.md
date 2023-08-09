@@ -17,9 +17,7 @@
  <br>
  
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=qwr133&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwr133&theme=radical&layout=compact" />
+![Sangji's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwr133&theme=dark&show_icons=true)
 </div>
 
 
